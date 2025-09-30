@@ -1,1 +1,5 @@
 main.py
+subscription_manager/Salman_Subscription.xlsx
+.gitignore
+subscription_manager/Salman_Subscriptions.xlsx
+subscription_manager/__pycache__/
